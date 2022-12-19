@@ -1,12 +1,8 @@
 # Dolomites
 
-Set of digital maps of Dolomites hikes explained : XXX.com
+Set of digital maps of Dolomites hikes explained : https://baroubard.github.io/portfolio-details3.html
 
 Also available there on Caltopo site : https://caltopo.com/m/DBRNV
 
 
-![Capturehhh](https://user-images.githubusercontent.com/107501740/173873801-30126662-c64d-4897-a5cc-cebf98192a5b.JPG)
-
-![iou](https://user-images.githubusercontent.com/107501740/173883807-d6b6b889-d065-45fb-8168-3bbfaa50182d.JPG)
-
-![iouii](https://user-images.githubusercontent.com/107501740/173883819-73d632c5-e4b4-4d6c-afc1-4c42b88213f4.JPG)
+![Screenshot_2022-12-19_12-36-29](https://user-images.githubusercontent.com/107501740/208485297-8e6059ad-ddd9-4fbf-8270-54b70e58c954.png)
